@@ -36,4 +36,3 @@ with DAG(
     )
 
     bash_sleep_35 >> bash_sleep_36 >> bash_go
-# example5 테스트를 위해 주석달고 저장합니다.    
