@@ -1,0 +1,299 @@
+[33mcommit acd89eb29f447a5432ba96e555077f305856cae0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4612cbb c2c70fc
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 11:36:27 2024 +0900
+
+    Merge branch 'master' of https://github.com/viramhjk/airflow_2.9.1
+
+[33mcommit 4612cbb3f4641048007651a4114c986e04a476a0[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 11:30:58 2024 +0900
+
+    example6 5commit
+
+[33mcommit c2c70fc7fe64529b29290b2c29b160e72aa68e63[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 11:30:08 2024 +0900
+
+    example6 5commit
+
+[33mcommit 1706fb797f1d1c9ddb80394bb370f8c44a5eaf8a[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:53:25 2024 +0900
+
+    example6 4 commit
+
+[33mcommit 81cc87bf955bf6c359a64c6f6d8128871b46afca[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:49:22 2024 +0900
+
+    example6 3 comment
+
+[33mcommit 9450ce0a0f88e4046ee2d1d3491b7bb2fbaea0ec[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:41:09 2024 +0900
+
+    example6 second comment
+
+[33mcommit 9ef59152a4d1eb1ce267dde8e038db269a2b0040[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:36:41 2024 +0900
+
+    example6  delete  comment 5th
+
+[33mcommit 9eddea97d6c6d2844b1cbdd87e530ab7cd825617[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:32:11 2024 +0900
+
+    example6 5 comment
+
+[33mcommit 888a15289ff1a0e8234346e95ec73afd641c0b32[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:25:35 2024 +0900
+
+    example6 4 commet
+
+[33mcommit d5e47d63f130d00d3d316ba029faedefe5a24b1d[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 10:14:18 2024 +0900
+
+    example6 3
+
+[33mcommit 01741eb64991a4bbb7eaa052b218e23857291b6c[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 09:29:17 2024 +0900
+
+    example5,6 append
+
+[33mcommit 2cf70bb94bb3432df11aa293550187a449cab5dc[m
+Merge: 1bcd05d 3b222fa
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 09:06:53 2024 +0900
+
+    example5 add
+
+[33mcommit 1bcd05d0e1cd15e0130f343f706d1ebf60872781[m
+Author: DESKTOP-12RU707\viram <viram.hjk@gmail.com>
+Date:   Fri Nov 22 08:41:57 2024 +0900
+
+    example5 add
+
+[33mcommit 3b222faae591391d47376ab3aa8742f0d4a90f26[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 15:55:25 2024 +0900
+
+    example5 delete
+
+[33mcommit 4bde2f879e69d4ac6464fd30a7b19d16dcf6f0c2[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 15:41:46 2024 +0900
+
+    주석한 줄을 더 복사하였습니다.
+
+[33mcommit d9d4a5ca8485ab249f7df71e22126afe84afbfef[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 15:35:20 2024 +0900
+
+     example 5의 일부 내용을 저장하였습니다.
+
+[33mcommit 0ec528c3eb9a43bd2aa8e1209bc897221c6220a5[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 15:30:22 2024 +0900
+
+    example5
+
+[33mcommit b9b42f7acb38bf10c2571f271059420e5fabecb9[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 13:45:08 2024 +0900
+
+    example4 add
+
+[33mcommit 18d2f8f7bcd27f845de66323e9d49ec072ea5637[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 13:24:47 2024 +0900
+
+    example4 delete
+
+[33mcommit d15f11d298104acac2c0171aaa3d09d246ee98f7[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 13:15:35 2024 +0900
+
+    example4 save
+
+[33mcommit ae62a9c85d7373885a4a15f57816aeea432e5019[m
+Author: viramhjk <viram.hjk@gmail.com>
+Date:   Thu Nov 21 11:15:32 2024 +0900
+
+    display_3 추가
+
+[33mcommit 20e25b599c392bc09991cbe5dec8d0d04c03823a[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sun Jun 23 19:11:19 2024 +0900
+
+    오타 수정
+
+[33mcommit 8b64269b1f5001fbd11539af35e9dde66040ea5e[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Tue Jun 18 22:54:32 2024 +0900
+
+    day2 homework
+
+[33mcommit d0ead0d68f0e11938c31f84222f22f966ef21597[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Tue Jun 18 22:30:05 2024 +0900
+
+    day3 homework
+
+[33mcommit 226bc21b9111fb21c1d6e2a2d85a0466fb23872d[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sun Jun 16 20:48:34 2024 +0900
+
+    file exec permission task 추가
+
+[33mcommit 56b889e7fd3b646059f9d4a248674761145aa9df[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sun Jun 16 20:01:48 2024 +0900
+
+    day1 homework
+
+[33mcommit 660b2dd874cca05f1268f4caeb317836a409653b[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sun Jun 16 19:38:22 2024 +0900
+
+    conn 연결 수정
+
+[33mcommit fc7cdef93674b951e1cecc316dc2947f6f3b73b2[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sun Jun 16 19:31:26 2024 +0900
+
+    conn 연결 수정
+
+[33mcommit c3040da14f05169d4b422b21972308870ceb21a4[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sat Jun 8 21:58:50 2024 +0900
+
+    ch13 내용 upload
+
+[33mcommit 9df250c39f1620b9129007c66ac5184f98dfedcf[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sat Jun 8 21:42:38 2024 +0900
+
+    ch14 내용 upload
+
+[33mcommit 4db502024d322fb017897a8c21613d32b8dbbeb9[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sat Jun 8 13:52:47 2024 +0900
+
+    ch12 내용 upload
+
+[33mcommit f898b17959dc922c292639870daae7184b9107af[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Sat Jun 8 13:26:06 2024 +0900
+
+    ch12 내용 upload
+
+[33mcommit c6f9dd7e4c8464de81bd0455b5959783fa22d414[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 22:50:17 2024 +0900
+
+    ch11 내용 upload
+
+[33mcommit 0b551f2c52a4bf8d8f4a98ca78a4a2829ad04dd5[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:53:14 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 4b04f91a3d82b4374abd2295f78665728ac1dc7e[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:48:33 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 80df18827b8d449df3aa3876c12d9e741eeac270[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:41:22 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit ba7edb079a1cd3c8470d4552885994806421f28a[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:39:42 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 6a99f2f6692fecf1806c3bf4d27360647839f1c6[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:33:27 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 79fd40979bd992b1d3ef2d8908fc8a27c54a2bc7[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 20:25:59 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit c23b8d0072d09363cb01d18e771da7dabd76f2c1[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 19:48:18 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 1573116a1db50e6fc2c80f700e7616730e22e4c1[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 19:47:10 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 5933b41cc8b1598f1267bddbc9a7c8a169c02391[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 19:29:32 2024 +0900
+
+    ch10 내용 upload
+
+[33mcommit 4aee5d74fc1b933da89317933c31fff51eafc2df[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 14:06:16 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit 2cc58c2679db4025450d58bebfe8ab16ca3eb645[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 13:58:56 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit 7cca098f4cd36a07f5e12e363ab053ecbb68fdb2[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 13:10:16 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit d94d7f46ac9b4b5da9b0e440a064697b56849cb5[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Thu Jun 6 12:21:49 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit e19716072e9ab2f7b8736cf4d5f356fe7da525e7[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Wed Jun 5 23:34:45 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit 3c3d588bdfd9c81cf47271cfb062ca40f6becfc8[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Wed Jun 5 22:34:54 2024 +0900
+
+    ch9 내용 upload
+
+[33mcommit 154b570d4cf842dd16a5cd047b9169ad0ba4e14c[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Tue Jun 4 22:35:04 2024 +0900
+
+    ch8 내용 upload
+
+[33mcommit ddeeb11913a2f2d91c208eb51086867a92c00cb3[m
+Author: hjkim <hjkim_sun@naver.com>
+Date:   Tue Jun 4 2
